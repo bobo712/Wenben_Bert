@@ -1,3 +1,4 @@
 # Wenben_Bert
-### Paper： Exploring public attention about rural landscape on Sina Weibo: Using Web crawler and text mining (Under Review Scientific Reports
-)
+### Paper:Exploring public attention about rural landscape on Sina Weibo: Using Web crawler and text mining (Under Review Scientific Reports)
+### To ensure the transparency and reproducibility of our research, we will first release the data preprocessing code and the training dataset. This allows peer reviewers and the public to understand the process of our data preparation and the basis of our preliminary analyses. This step is intended to provide the research community with the necessary tools and resources to replicate our findings or to further investigate based on our work. We commit to making the remaining code public, including detailed implementations of the text mining and analysis algorithms, once this paper is formally accepted by Scientific Reports. This practice not only adheres to the principles of open science but also promotes the transparent dissemination and accumulation of scientific knowledge.
+
